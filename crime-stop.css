@@ -1,0 +1,66 @@
+h3{
+    text-align: center;
+    color: blue;
+}
+h4{
+    margin-left: 50px;
+    color: rgb(168, 166, 166);
+}
+.tip{
+    width: 900px;
+    height: 85px;
+    border-style: groove;
+    margin: auto;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    ;}
+.mi p{
+    text-align: center;
+    font:bolder;
+    font-size: large;
+    font-family: sans-serif;
+  }
+  
+  .ma{
+ text-align: center;
+    font:bolder;
+    font-size: large;
+    font-family: sans-serif;
+    color: red;
+  }
+
+  .images{
+    /* width: 45%; */
+    display: block;
+    /* float: left; */
+  margin-left: 350px;
+  margin-right: auto;
+}
+.me a {
+    color: blue;
+}
+
+.cent{
+    width: auto;
+    height: 40px;
+    background-color: rgb(40, 40, 97);
+}
+
+h2{
+    
+   
+   color: white;
+}
+
+main{
+    min-height: calc(100vh - 64.91px - 300px);
+    
+}
+    
+  

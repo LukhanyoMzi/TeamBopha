@@ -1,0 +1,46 @@
+.cent{
+    width: auto;
+    height: 40px;
+    background-color: rgb(40, 40, 97);
+}
+
+h2{
+    text-align: center;
+   margin: auto;
+   color: white;
+}
+a:link {
+    text-decoration: none;
+    
+   
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: rgb(136, 136, 180);
+    
+   
+  }
+   a{
+       color: rgb(59, 16, 250);
+       padding: 5px;
+       top: 5px;
+       margin-bottom: 10px;
+   }
+  
+  a:active {
+    text-decoration: underline;
+  }
+  .black a{
+ color: rgb(126, 102, 212);
+}
+.size a{
+    color: white;
+}
+main{
+    min-height: calc(100vh - 58px - 300px);
+}

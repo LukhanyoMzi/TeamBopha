@@ -1,0 +1,48 @@
+a:link {
+    text-decoration: none;
+    
+   
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  
+  a:hover {
+    text-decoration: underline;
+    color: rgb(136, 136, 180);
+    
+   
+  }
+   a{
+       color: white;
+       padding: 5px;
+       top: 5px;
+       margin-bottom: 10px;
+   }
+  
+  a:active {
+    text-decoration: underline;
+  }
+  .cent{
+    width: auto;
+    height: 40px;
+    background-color: grey;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+
+.control-group{
+    color: black;
+}
+
+.picture{
+    background-image: url('SCALES.jpg');
+    
+}
+main{
+    min-height: calc(100vh - 77.91px -300px);
+}
